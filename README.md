@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 🚀 Live Demo
 
-🔗 View Online: [View Online](file:///C:/Users/pmjit/OneDrive/Desktop/Myprotfolio/index.html)
+🔗 View Online: [View Online](http://127.0.0.1:5500/)
 
 ✨ Key Features
 
