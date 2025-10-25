@@ -52,6 +52,6 @@ This project is licensed under the terms described in the LICENSE file.
 📧 Email: pmjithureddy@gmail.com
 
 📍 Location: Tharthur, Kurnool
-🔗 LinkedIn: []
+🔗 LinkedIn: [linkden](https://www.linkedin.com/in/jithendra-reddy-221393210/)
 💻 GitHub: [GitHub]
 📸 Instagram: [https://www.instagram.com/jithu_reddy_467/]
