@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 🚀 Live Demo
 
-🔗 View Online: Portfolio Website
+🔗 View Online: Portfolio Website(file:///C:/Users/pmjit/OneDrive/Desktop/Myprotfolio/index.html)
 
 ✨ Key Features
 
@@ -49,7 +49,7 @@ This project is licensed under the terms described in the LICENSE file.
 
 📬 Contact
 
-      PROJECT DEMO:[Live Demo](file:///C:/Users/pmjit/OneDrive/Desktop/Myprotfolio/index.html)
+
 
 📧 Email: pmjithureddy@gmail.com
 
