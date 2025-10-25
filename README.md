@@ -49,9 +49,14 @@ This project is licensed under the terms described in the LICENSE file.
 
 📬 Contact
 
+      PROJECT DEMO:[Live Demo](file:///C:/Users/pmjit/OneDrive/Desktop/Myprotfolio/index.html)
+
 📧 Email: pmjithureddy@gmail.com
 
 📍 Location: Tharthur, Kurnool
+
 🔗 LinkedIn: [linkden](https://www.linkedin.com/in/jithendra-reddy-221393210/)
-💻 GitHub: [GitHub]
-📸 Instagram: [https://www.instagram.com/jithu_reddy_467/]
+
+💻 GitHub: [GitHub](https://github.com/jithendrareddy99)
+
+📸 Instagram: [Instagram](https://www.instagram.com/jithu_reddy_467/)
