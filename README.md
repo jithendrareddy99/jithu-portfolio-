@@ -28,8 +28,8 @@ portfolio4/ │ ├─ index.html # Main HTML file ├─ styles.css # CSS file 
 This project is licensed under the terms described in the LICENSE file.
 
 📬 Contact
-Email: aminehamzaoui1925@gmail.com
-Location: Boumerdès, Algeria
+Email: pmjithureddy@gmail.com
+Location: Tharthur, Kurnool
 LinkedIn: LinkedIn
 GitHub: GitHub
 Instagram: Instagram
