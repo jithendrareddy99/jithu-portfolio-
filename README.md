@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 🚀 Live Demo
 
-🔗 View Online: [View Online](http://127.0.0.1:5500/)
+🔗 View Online: [View Online](https://jithu-portfolio-n3u6olof5-jithendra-reddys-projects-a10b3768.vercel.app/)
 
 ✨ Key Features
 
